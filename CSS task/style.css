@@ -1,0 +1,122 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container-one {
+    padding: 50px;
+}
+
+.section-one p {
+    color: grey;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+img {
+    height: 300px;
+    width: 200px;
+}
+
+.section-two {
+    margin-top: 20px;
+    width: 200px;
+    border: solid 3px black;
+    display: inline-block;
+}
+
+.section-two__para {
+    text-align: center;
+}
+
+.section-three {
+    margin-top: 20px;
+    width: 200px;
+    border: solid 3px black;
+    display: inline-block;
+}
+
+.section-three__para {
+    text-align: center;
+}
+
+.section-four {
+    margin-top: 20px;
+    width: 200px;
+    border: solid 3px black;
+    display: inline-block;
+}
+
+.section-four__para {
+    text-align: center;
+}
+
+.section-five {
+    margin-top: 20px;
+    width: 200px;
+    border: solid 3px black;
+    display: inline-block;
+}
+
+.section-five__para {
+    text-align: center;
+}
+
+.section-two__button,
+.section-three__button,
+.section-four__button,
+.section-five__button {
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+.container-two {
+    margin-left: 300px;
+}
+
+.container-three {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+    margin-top: 20px;
+}
+
+.container-three h16 {
+    margin-top: 20px;
+}
+
+.container-three form {
+    display: inline-block;
+    text-align: left;
+}
+
+.container-three table {
+    margin: 0 auto;
+}
+
+.container-three__button {
+    background-color: #c2b416;
+    color: black;
+    padding: 8px 250px;
+    border: none;
+    font-weight: bold;
+}
+
+.section-two__title,
+.section-three__title,
+.section-four__title,
+.section-five__title {
+    text-align: center;
+}
